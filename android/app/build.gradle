@@ -1,7 +1,0 @@
-defaultConfig {
-    applicationId "com.rinukz.cashflow"
-    minSdkVersion 21    // แก้ไขบรรทัดนี้จากเดิม (มักจะเป็น 16 หรือ flutter.minSdkVersion)
-    targetSdkVersion flutter.targetSdkVersion
-    versionCode flutterVersionCode.toInteger()
-    versionName flutterVersionName
-}
