@@ -33,7 +33,7 @@ class _RinukzCashFlowAppState extends State<RinukzCashFlowApp> {
           },
         ),
       )
-      ..loadRequest(Uri.parse('https://script.google.com/macros/s/AKfycbyB0eNOlZCNM0hKHGGm3CJ08hl0MdFB2gY13wH5blNhFzE8-pq_Wy6-wDIPh2HUjraT/exec'));
+      ..loadRequest(Uri.parse('https://script.google.com/macros/s/AKfycbx0CgnXUoZKEFgCeEU0A4EZsQ34P4yBlL7o1OLM0XH6XQ5olpY8yjt38iXa6jwVTKgn/exec'));
   }
 
   @override
